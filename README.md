@@ -1,7 +1,7 @@
 GGX Reference vs Fast Approximation
 
 The GGX LUT table can generated with this shadertoy example:
-* ![Specular BRDF LUT](https://www.shadertoy.com/view/3lXXDB)
+* [Specular BRDF LUT](https://www.shadertoy.com/view/3lXXDB)
 
 The [glTF Sample Viewer](https://github.com/KhronosGroup/glTF-Sample-Viewer) uses this GGX LUT [texture](https://github.com/KhronosGroup/glTF-Sample-Viewer/blob/master/assets/images/lut_ggx.png):
 * ![GGX LUT](pics/lut_ggx.png)
