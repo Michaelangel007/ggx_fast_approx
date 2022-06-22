@@ -27,7 +27,7 @@ vec2 getGGXApprox( vec2 uv ) // brdfSamplePoint
 ... the image quality is not bad:
 
 With GGX 
-* !PBR Approx](pics/1_pbr_approx.png)
+* ![PBR Approx](pics/1_pbr_approx.png)
 
 Image Difference
 * ![PBR Difference](pics/1_pbr_difference.png)
